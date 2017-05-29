@@ -139,10 +139,4 @@ public class Simulator {
 	public void setTRAVEL_MAX_NUM(int tRAVEL_MAX_NUM) {
 		TRAVEL_MAX_NUM = tRAVEL_MAX_NUM;
 	}
-	
-	
-	
-	
-	
-
 }
